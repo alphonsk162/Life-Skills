@@ -26,6 +26,12 @@ I liked the Pomodoro Technique in that video. It was interesting to learn how br
 *  Use apps like Boosted to track my time and improve my productivity.
 * Develop the skill of maintaining focus, minimizing distractions, and consistently practicing to improve my attention over time.
 
+## Resources
+* https://www.youtube.com/watch?v=_f-qkGJBPts
+* https://www.youtube.com/watch?v=O96fE1E-rf8
+* https://www.youtube.com/watch?v=5MgBikgcWnY
+
+
 
 
 

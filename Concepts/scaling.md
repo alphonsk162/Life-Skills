@@ -44,3 +44,7 @@ Load balancing distributes incoming traffic across multiple servers, improving r
 
 ## Conclusion
 To address the project's performance and scaling issues, horizontal scaling combined with appropriate load balancing is recommended for long-term scalability, high availability, and performance improvements.
+
+## Resources
+* https://docs.actian.com/dataflow/6.8/index.html#page/Concepts/Performance_and_Scalability.htm
+* https://www.ibm.com/topics/load-balancing

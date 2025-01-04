@@ -37,3 +37,8 @@ Sexual harassment means unwanted and inappropriate actions of a sexual kind that
 * **Seek support:** I would reach out to friends, family, or support groups for emotional support and advice.
 
 * **Consider legal action:** I would consult with a lawyer to explore options for taking legal action.
+
+## Resources
+* https://www.youtube.com/watch?v=Ue3BTGW3uRQ
+* https://www.youtube.com/watch?v=u7e2c6v1oDs
+* https://www.youtube.com/watch?v=o3FhoCz-FbA
