@@ -54,3 +54,11 @@ I switch to a passive-aggressive communication style when I'm unable to express 
 * I will not hesitate to speak up in situations that are problematic or uncomfortable for me.
 
 
+## Resources
+https://www.youtube.com/watch?v=rzsVh8YwZEQ
+
+https://en.wikipedia.org/wiki/Reflective_listening
+
+https://www.youtube.com/watch?v=BanqlGZSWiI
+
+https://www.youtube.com/watch?v=vlwmfiCb-vc
