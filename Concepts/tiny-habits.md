@@ -65,3 +65,10 @@ Pick one habit that you would like to eliminate or do less of? What are the step
 I want to avoid eating junk food.  These are the steps I will take to achieve this:
 * I will include healthy yet tasty foods in my diet plan.
 * I will find food spots near the office that offer healthy options.
+
+
+## Resources
+*  https://www.youtube.com/watch?v=AdKUJxjn-R8
+*  https://www.youtube.com/watch?v=S_8e-6ZHKLs
+*  https://www.youtube.com/watch?v=mNeXuCYiE0U
+*  https://www.youtube.com/watch?v=YT7tQzmGRLA
