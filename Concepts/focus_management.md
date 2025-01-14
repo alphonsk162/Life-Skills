@@ -30,4 +30,3 @@ Deep work refers to focusing without distraction on a cognitively demanding task
 * Addiction to social media can permanently reduce the capacity for concentration.
 
 * Overuse of social media can make you feel lonely or isolated.
-
